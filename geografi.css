@@ -11,23 +11,10 @@ body{
     flex-direction: column;
 }
 
-.header{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.logo{
-    align-self: flex-start;
-}
-
 h1{
-    margin: 15px 0 0 0;
-    padding: 15px;
-    color: #DDA15E;
-    font-size: 3em;
     font-family: "valo", sans-serif;
-    text-align: center;
+    font-size: 3em;
+    color: #BC6C25;
 }
 
 .deles, .girpasang{
@@ -43,6 +30,7 @@ h1{
 .container{
     display: flex;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 .deles1{
