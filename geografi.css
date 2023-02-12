@@ -11,6 +11,12 @@ body{
     flex-direction: column;
 }
 
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 h1{
     font-family: "valo", sans-serif;
     font-size: 3em;
